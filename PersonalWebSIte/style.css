@@ -1,0 +1,165 @@
+/* rgb(30, 32, 30) black
+rgb(60, 61, 55)    brown
+rgb(105, 117, 101)    green
+rgb(236, 223, 204)    tan       */
+
+.my-custom-button {
+  background-color: rgb(236, 223, 204);
+  color: rgb(30, 32, 30);
+  border: none;
+}
+
+.rate-button {
+  background-color: rgb(105, 117, 101);
+  color: rgb(30, 32, 30);
+  border: none;
+}
+
+.rate-button:hover {
+  background-color: rgb(236, 223, 204);
+}
+
+.my-custom-button:hover {
+  background-color: rgb(105, 117, 101);
+}
+
+.petes-image {
+  height: 400px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.my-custom-header {
+  color: rgb(30, 32, 30);
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 800;
+}
+.top-thang {
+  background-color: rgb(236, 223, 204);
+}
+.header-button-color-main {
+  color: rgb(30, 32, 30);
+  background-color: rgb(105, 117, 101);
+}
+
+.header-button-color-main:hover {
+  color: rgb(30, 32, 30);
+}
+
+.header-button-color {
+  color: rgb(30, 32, 30);
+  
+}
+
+.header-button-color:hover {
+  color: rgb(30, 32, 30);
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: rgb(30, 32, 30);
+  background-color: rgb(105, 117, 101);
+}
+
+.header-color {
+  color: rgb(30, 32, 30);
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
+
+.card-img-top {
+  height: 250px;
+  object-fit: cover;
+  object-position: 70% 30%;
+}
+
+.proj-light {
+  background-color: rgb(177, 177, 175);
+}
+
+.delete-button{
+  background-color: rgb(135, 69, 69);
+  color: rgb(30, 32, 30);
+  border: none;
+}
+.delete-button:hover{
+  background-color: rgb(236, 152, 152);
+}
+
+.insight-button{
+  background-color: rgb(102, 140, 189);
+  color: rgb(30, 32, 30);
+  border: none;
+}
+
+.insight-button:hover{
+  background-color: rgb(162, 198, 246);
+}
+
+
+.img-border {
+  border: 5px solid #1e201e; /* dark color */
+  border-radius: 8px; /* optional: rounded corners */
+}
+
+.btn-color-resume {
+  background-color: rgb(236, 223, 204);
+  color: rgb(30, 32, 30);
+  border: none;
+}
+
+.btn-color-resume:hover {
+  background-color: rgb(105, 117, 101);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.ubuntu-light {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ubuntu-regular {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ubuntu-medium {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ubuntu-bold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ubuntu-light-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.ubuntu-regular-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.ubuntu-medium-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ubuntu-bold-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
